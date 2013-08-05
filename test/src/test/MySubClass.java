@@ -9,5 +9,10 @@ public class MySubClass extends MyClass {
 		// TODO Auto-generated method stub
 
 	}
+	
+	public static void usefulMethod()
+	{
+		
+	}
 
 }
